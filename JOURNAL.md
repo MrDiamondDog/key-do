@@ -25,7 +25,7 @@ Leaving these links to the products below for me but also for documentation:
 ![IMG_9509.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ODI3LCJwdXIiOiJibG9iX2lkIn19--6402b6b493f6d718036973c91b605cbb212d895e/IMG_9509.jpeg)
   
 
-## 10/11/2025 - Basic UI Design, BOM.yml  
+## 10/11/2025 12 PM - Basic UI Design, BOM.yml  
 
 Made a quick UI for the home screen in LVGL using EEZ Studio
 
@@ -36,5 +36,16 @@ Battery (3000mAh) - https://www.aliexpress.us/item/3256809827427989.html
 Buttons - https://www.aliexpress.us/item/2251832095969331.html
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTY1OCwicHVyIjoiYmxvYl9pZCJ9fQ==--72984fddd367dacf7e066f67ff3814257333f1a4/image.png)
+  
+
+## 10/11/2025 3 PM - More Modelling!  
+
+Did some more design work! I found a better battery and button board that will fit my needs better, and they are actually a much better price as well. I've updated the BOM to reflect this.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTY4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--767da229da6ca18122fa2f8d009bab00da03f114/image.png)
+
+The case will need some more work obviously, I need to figure out the buttons and some connectors, as well as attaching the bottom part of the case and the keyring. Some revisions will definitely be needed when I receive my products. Luckily, I own a 3d printer that will make this very simple.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTY4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--526168d9eb40443480bfa6e703a0715ec8a8ea64/image.png)
   
 

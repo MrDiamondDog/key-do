@@ -10,7 +10,7 @@ This is my journal of the design and building process of **Key-Do**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/266).
 
 
-## 10/7/2025 - Idea drafting and product finding  
+## 10/6/2025 - Idea drafting and product finding  
 
 I went through what I wanted the device to do and how I'll make it happen. I found the exact products I need on amazon.
 The device will be an ESP32 2.1in E-Ink display with 4 buttons off to the side for control. It will also have a 3000mAh rechargeable battery. 
@@ -23,5 +23,18 @@ Leaving these links to the products below for me but also for documentation:
 - Buttons - https://www.amazon.com/dp/B07PFK5Z7L
 
 ![IMG_9509.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ODI3LCJwdXIiOiJibG9iX2lkIn19--6402b6b493f6d718036973c91b605cbb212d895e/IMG_9509.jpeg)
+  
+
+## 10/11/2025 - Basic UI Design, BOM.yml  
+
+Made a quick UI for the home screen in LVGL using EEZ Studio
+
+I also found equivalent products on Aliexpress so it's cheaper, and added it to a BOM.csv
+
+Display/ESP32 - https://www.aliexpress.us/item/3256807023441750.html
+Battery (3000mAh) - https://www.aliexpress.us/item/3256809827427989.html
+Buttons - https://www.aliexpress.us/item/2251832095969331.html
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTY1OCwicHVyIjoiYmxvYl9pZCJ9fQ==--72984fddd367dacf7e066f67ff3814257333f1a4/image.png)
   
 

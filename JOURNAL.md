@@ -49,3 +49,12 @@ The case will need some more work obviously, I need to figure out the buttons an
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTY4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--526168d9eb40443480bfa6e703a0715ec8a8ea64/image.png)
   
 
+## 10/11/2025 7 PM - Finished the first prototype case model!  
+
+The first prototype case model is finished! I'm going to print this off and see if attaching the two pieces works, as this is the first time I've really modeled anything with screws. It's going to use 2 M2x6 screws, since the components inside have to fit snugly, I can't really fit any more screws while still being able to put all the components inside.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTcyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--3cf1cdb78db2a7052ce36abce5db62850b4db9f3/image.png)
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTcyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--df1a01f56e3efbd7a0e06386b94d8e6afe02b47f/image.png)
+  
+

@@ -70,3 +70,13 @@ I also forgot to add the keychain part of it, but we’ll cross that bridge late
 Anyway, V2 incoming! 
 ![IMG_9527.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTczOSwicHVyIjoiYmxvYl9pZCJ9fQ==--e0eac7c5bef68a1f54c85698fbf47de2fba80cf0/IMG_9527.jpeg)  
 
+## 10/11/2025 10 PM - Test Print #2, Added basic UI code  
+
+Test print 2 went a little better than last time. I increased the wall size a lot which helped a lot with the flimsyness, and overhauled the screw holes. Turns out 2mm threading does not print well on a .4mm nozzle, so I scrapped that altogether and just put a hole that is roughly the size of the screw to let it make its own threads. This worked somewhat, for some reason only one of the screw holes worked perfectly while the other one just let the screw slide around in it, despite them being the same size in the design. 
+
+Anyway, I've added all the basic UI code in C++. For me to continue working on the project, I'll need the products to build it so I can finalize the designs and get the code past its prototype!
+
+![500221753-27e13e6a-1ab9-4e2c-afb8-7303f2aa7120.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTc0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--f686774c35ad8f735cf0c95a951b4ed9f946d1c3/500221753-27e13e6a-1ab9-4e2c-afb8-7303f2aa7120.png)
+![500221802-91a0ae45-15db-4327-8404-c68f1cf45a64.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTc0NywicHVyIjoiYmxvYl9pZCJ9fQ==--edfe1fb50e393575308b76ab5e42bd5c03c9f9c7/500221802-91a0ae45-15db-4327-8404-c68f1cf45a64.png)
+  
+

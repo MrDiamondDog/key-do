@@ -58,3 +58,15 @@ The first prototype case model is finished! I'm going to print this off and see 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTcyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--df1a01f56e3efbd7a0e06386b94d8e6afe02b47f/image.png)
   
 
+## 10/11/2025 9 PM - First Print!  
+
+…went about as well as you’d think. Here’s a non-exhaustive list of what went wrong:
+- Walls were WAY too thin (literally one wall loop)
+- Screw holes just don’t work at all
+- Supports for said screw holes were too hard to get out
+
+I also forgot to add the keychain part of it, but we’ll cross that bridge later.
+
+Anyway, V2 incoming! 
+![IMG_9527.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTczOSwicHVyIjoiYmxvYl9pZCJ9fQ==--e0eac7c5bef68a1f54c85698fbf47de2fba80cf0/IMG_9527.jpeg)  
+

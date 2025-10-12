@@ -82,6 +82,7 @@
           },
           {
             "type": "border",
+            "selected": 1,
             "location": "bottom",
             "children": [
               {

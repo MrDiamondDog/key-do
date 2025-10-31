@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Key-Do**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/266).
-
-
 ## 10/6/2025 - Idea drafting and product finding  
 
 I went through what I wanted the device to do and how I'll make it happen. I found the exact products I need on amazon.
@@ -78,5 +74,17 @@ Anyway, I've added all the basic UI code in C++. For me to continue working on t
 
 ![500221753-27e13e6a-1ab9-4e2c-afb8-7303f2aa7120.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTc0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--f686774c35ad8f735cf0c95a951b4ed9f946d1c3/500221753-27e13e6a-1ab9-4e2c-afb8-7303f2aa7120.png)
 ![500221802-91a0ae45-15db-4327-8404-c68f1cf45a64.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTc0NywicHVyIjoiYmxvYl9pZCJ9fQ==--edfe1fb50e393575308b76ab5e42bd5c03c9f9c7/500221802-91a0ae45-15db-4327-8404-c68f1cf45a64.png)
+  
+
+## 10/30/2025 - First code running on real hardware!  
+
+The ESP finally arrived, and I immediately got started on getting some basic code to run on it. Safe to say that actually wasn’t easy at all.
+
+I refuse to use Arduino IDE in favor of PlatformIO, as Arduino IDE is generally terrible, and I want to fine tune what I code. Unfortunately, there is absolutely 0 documentation on how to get it to actually work on PIO. It successfully uploaded the code but nothing happens on the ESP. 
+
+After many many hours of looking stuff up, I finally found a github repo (https://github.com/todd-herbert/heltec-eink-modules) that contained a correct and working configuration file I can use. Sure enough, the code finally ran on the ESP.
+
+Next up is getting LVGL up and running and the basic UI on the screen!
+![IMG_9584](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njg5MSwicHVyIjoiYmxvYl9pZCJ9fQ==--cef91f2e4adad00dc640f4ced0f8d9909e142c9d/IMG_9584.jpeg)
   
 
